@@ -15,7 +15,9 @@ list_of_files=[
     f"{PROJECT_NAME}/{SRC}/clouds/__init__.py",
 
     f"{PROJECT_NAME}/{SRC}/logging/__init__.py",
+    f"{PROJECT_NAME}/{SRC}/logging/logger.py",
     f"{PROJECT_NAME}/{SRC}/exception/__init__.py",
+    f"{PROJECT_NAME}/{SRC}/exception/exception.py",
     f"{PROJECT_NAME}/{SRC}/constant/__init__.py",
     f"{PROJECT_NAME}/{SRC}/entity/__init__.py",
     f"{PROJECT_NAME}/{SRC}/components/__init__.py",

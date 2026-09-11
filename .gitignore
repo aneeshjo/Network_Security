@@ -1,3 +1,7 @@
 venv
 
 .env
+
+tests
+
+Network_Security.egg-info
