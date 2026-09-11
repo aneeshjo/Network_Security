@@ -12,7 +12,7 @@ list_of_files=[
     "app.py",
     f"{PROJECT_NAME}/__init__.py",
     f"{PROJECT_NAME}/{SRC}/__init__.py",
-    f"{PROJECT_NAME}/{SRC}/clouds",
+    f"{PROJECT_NAME}/{SRC}/clouds/__init__.py",
 
     f"{PROJECT_NAME}/{SRC}/logging/__init__.py",
     f"{PROJECT_NAME}/{SRC}/exception/__init__.py",
