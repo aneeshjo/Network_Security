@@ -1,6 +1,7 @@
 from setuptools import setup, find_packages
 
 
+
 NAME = "Network_Security"
 VERSION = "0.0.1"
 AUTHOR = "ANEESH JOSE"
@@ -23,6 +24,7 @@ def get_requirements_list() -> list:
                 requirements_list.remove(HYPHEN_E_DOT)
         return requirements_list
     except FileNotFoundError:
+
         print("Requitemets file not found")
 
 setup(
